@@ -2,7 +2,7 @@ from game import *
 import csv
 
 
-filename='result(nerf)_S' + '.csv'
+filename='' + '.csv'
 
 
 f = open(filename, 'a')
