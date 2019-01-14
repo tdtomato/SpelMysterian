@@ -1,1 +1,1 @@
-# SpelMysterian
+# SpellMysterian
